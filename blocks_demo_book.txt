@@ -1,1 +1,1 @@
-{"array":[{"name":"ryba","version":"1.0","description":"Риба барамунді"}]}
+{"array":[{"name":"ryba","version":"1","description":"Риба барамунді"}]}
